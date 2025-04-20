@@ -1,6 +1,6 @@
 # 🛒 React E-Commerce App
 
-An end-to-end responsive e-commerce web application built with **React**, **Firebase Authentication**, **Redux Toolkit**, **Tailwind CSS**, and **Razorpay** integration. This project is developed as part of the selection process for a **React Developer** role at **Vishleshan**.
+An end-to-end responsive e-commerce web application built with **React**, **Firebase Authentication**, **Redux Toolkit**, **Tailwind CSS**, and **Razorpay** integration. This project is developed as part of the selection process for a **React Developer** role at **Vishleshan**. **Demo video**  https://drive.google.com/file/d/1pS5RLBm_O5G7Mzh4TnUuh-JXXFExSFCP/view?usp=sharing
 
 ---
 
